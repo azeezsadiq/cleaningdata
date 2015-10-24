@@ -2,12 +2,12 @@
 
 The experiment captured data from 30 volunteers performing each of 6 activities 
 
-*Walking   
-*Walking Upstairs   
-*Walking Downstairs     
-*Sitting   
-*Standing  
-*Laying   
+* Walking   
+* Walking Upstairs   
+* Walking Downstairs     
+* Sitting   
+* Standing  
+* Laying   
 
 The data collected included time domain and frequency domain signals.
 
@@ -42,193 +42,193 @@ The data set generated will be of dimensions 180 x 68. The first two columns ref
 
 ###Variable 1 - Subject Number
 
-*Class = Factor  
-*Levels = 1,2,3,\.\.\.\.28,29,30  
-*Unit of Measurement = None  
+* Class = Factor  
+* Levels = 1,2,3,\.\.\.\.28,29,30  
+* Unit of Measurement = None  
 
 ###Variable 2 - Activity
 
-*Class = Factor
-*Levels = Walking, Walking Upstairs,Walking Downstairs, Sitting, Standing, Laying
-*Unit of Measurement = None
+* Class = Factor  
+* Levels = Walking, Walking Upstairs,Walking Downstairs, Sitting, Standing, Laying  
+* Unit of Measurement = None  
 
 ###Variables 3,4 and 5 - Means of Time Body Acceleration in X, Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 
 ###Variable 6,7 and 8 - Standard Deviations of Time Body Acceleration in X, Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 9,10 and 11 - Means of Time Gravity Acceleration in X, Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 12,13 and 14 - Standard Deviations of Time Gravity Acceleration in X, Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 15,16 and 17 - Means of Time Body Acceleration Jerk in X,Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 18,19 and 20 - Standard Deviations of Time Body Acceleration Jerk in X,Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 18,19 and 20 - Means of Time Body Acceleration Jerk in X,Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 21,22 and 23 - Means of Time Body Gyroscope in X,Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 24,25 and 26 - Standard Deviations of Time Body Gyroscope in X,Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 24,25 and 26 - Standard Deviations of Time Body Gyroscope in X,Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 27,28 and 29 - Means of Time Body Gyroscope Jerk in X,Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 30,31 and 32 - Standard Deviations of Time Body Gyroscope Jerk in X,Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 33 - Means of Time Body Acceleration Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 34 - Standard Deviations of Time Body Acceleration Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 35 - Means of Time Gravity Acceleration Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 36 - Standard Deviations of Time Gravity Acceleration Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 37 - Means of Time Body Acceleration Jerk Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 38 - Standard Deviations of Time Body Acceleration Jerk Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 39 - Means of Time Body Gyroscope Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 40 - Standard Deviations of Time Body Gyroscope Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 41 - Standard Deviations of Time Body Gyroscope Jerk Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 42 - Standard Deviations of Time Body Gyroscope Jerk Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variables 43,44 and 45 - Means of Frequency Body Acceleration in X, Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variables 46,47 and 48 - Standard Deviations of Frequency Body Acceleration in X, Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variables 49,50 and 51 - Means of Frequency Body Acceleration Jerk in X, Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variables 52,53 and 54 - Standard Deviations of Frequency Body Acceleration Jerk in X, Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variables 55,56 and 57 - Means of Frequency Body Gyroscope in X, Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variables 58,59 and 60 - Standard Deviations of Frequency Body Gyroscope in X, Y and Z axes
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 61 - Mean of Frequency Body Acceleration
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 62 - Standard Deviation of Frequency Body Acceleration
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 63 - Mean of Frequency Body Acceleration Jerk Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 64 - Standard Deviation of Frequency Body Acceleration Jerk Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 65 - Mean of Frequency Body Gyroscope Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 66 - Standard Deviation of Frequency Body Gyroscope Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 67 - Mean of Frequency Body Gyroscope Jerk Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
 
 ###Variable 68 - Standard Deviation of Frequency Body Gyroscope Jerk Magnitude
 
-*Class = Numeric
-*Unit of Measurement = Not specified
+* Class = Numeric  
+* Unit of Measurement = Not specified  
