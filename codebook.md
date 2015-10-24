@@ -9,7 +9,7 @@ The experiment captured data from 30 volunteers performing each of 6 activities
 * Standing  
 * Laying   
 
-The data collected included time domain and frequency domain signals.
+The data collected included time domain and frequency domain signals. 
 
 #Study design and data processing
 
@@ -30,7 +30,7 @@ The data provided as raw data is technically already processed somewhat as it ta
 ### Steps to generating the tidy data file
 
 * Download the file
-* Run the **run_analysis.R** file making sure that the file is in your working directory. The training and test data sets should also in the sub folders as in the \.zip file.
+* Run the **run_analysis.R** file making sure that the file is in your working directory. The training and test data sets should also be in the sub folders as in the \.zip file.
 
 ### Cleaning of the Data
 
