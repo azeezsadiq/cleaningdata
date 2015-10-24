@@ -68,7 +68,7 @@ data_merge[,2]<-sub("4","Sitting",data_merge[,2])
 data_merge[,2]<-sub("5","Standing",data_merge[,2])
 data_merge[,2]<-sub("6","Laying",data_merge[,2])
 
-data_merge[,2]<-factor(data_merge[,2],levels=c("Walking","Walking Upstairs","Walking Downstairs","Sitting",                                              "Standing","Laying"))
+data_merge[,2]<-factor(data_merge[,2],levels=c("Walking","Walking Upstairs","Walking Downstairs","Sitting","Standing","Laying"))
 ```
 ### Renaming variable names to more meaningful ones
 
@@ -104,3 +104,4 @@ The dataset in *result* is written to a \.txt file called result.
 ```javascript
 write.table(result,file="result.txt",row.names = FALSE)
 ```
+Note: Remember to set your Header argument to TRUE if using read.table to read my \.txt file. Otherwise, the column names are read in as another row.
