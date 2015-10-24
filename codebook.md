@@ -2,12 +2,12 @@
 
 The experiment captured data from 30 volunteers performing each of 6 activities 
 
-*Walking 
-*Walking Upstairs 
-*Walking Downstairs  
-*Sitting 
-*Standing
-*Laying
+*Walking   
+*Walking Upstairs   
+*Walking Downstairs     
+*Sitting   
+*Standing  
+*Laying   
 
 The data collected included time domain and frequency domain signals.
 
@@ -42,9 +42,9 @@ The data set generated will be of dimensions 180 x 68. The first two columns ref
 
 ###Variable 1 - Subject Number
 
-*Class = Factor
-*Levels = 1,2,3,\.\.\.\.28,29,30
-*Unit of Measurement = None
+*Class = Factor  
+*Levels = 1,2,3,\.\.\.\.28,29,30  
+*Unit of Measurement = None  
 
 ###Variable 2 - Activity
 
