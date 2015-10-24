@@ -1,13 +1,13 @@
 # Project Description
 
-The experiment captured data from 30 volunteers performing each of 6 activities 
+The experiment captured data from 30 volunteers performing each of 6 activities. 
 
-*Walking 
-*Walking Upstairs 
-*Walking Downstairs  
-*Sitting 
-*Standing
-*Laying
+1. Walking  
+2. Walking Upstairs   
+3. Walking Downstairs    
+4. Sitting   
+5. Standing  
+6. Laying
 
 The data collected included time domain and frequency domain signals.
 
